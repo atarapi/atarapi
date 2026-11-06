@@ -3,12 +3,6 @@
 I'm atarapi, a product designer in Japan 🇯🇵
 I'm passionate about creating the technologies that help people unleash their creativity.
 
-<p>
-  <a href="https://github.com/atarapi?tab=repositories">
-    <img height="160em" src="https://github-stats-extended-backend-one.vercel.app/api/top-langs/?username=atarapi&layout=compact&theme=buefy&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  </a>
-</p>
-
 <!--
 **atarapi/atarapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
